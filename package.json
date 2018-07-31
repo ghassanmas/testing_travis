@@ -1,0 +1,22 @@
+{
+  "name": "testing_travis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghassanmas/testing_travis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghassanmas/testing_travis/issues"
+  },
+  "homepage": "https://github.com/ghassanmas/testing_travis#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
